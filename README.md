@@ -5,7 +5,8 @@ The overview of Project is given below:
 Link to Dataset
 https://data.mendeley.com/datasets/gwbz3fsgp8/2
 
-![image](https://github.com/arjunpundir1106/Classification-of-Myocardial-Infarction-using-ECG-images/assets/72138112/30e0dec6-7fab-42fa-9c79-b8efa470cc7b)
+![img1](https://github.com/arjunpundir1106/Classification-of-Myocardial-Infarction-using-ECG-images/assets/72138112/253ff009-e6ad-4885-b23e-acee665ac01e)
+
 
 
 
@@ -15,32 +16,38 @@ https://data.mendeley.com/datasets/gwbz3fsgp8/2
 Pre-processing 
 i).Conversion of ECG images into Gray Scale.
 
-![image](https://github.com/arjunpundir1106/Classification-of-Myocardial-Infarction-using-ECG-images/assets/72138112/9c403b6d-aad1-4ae7-a533-0e01d884d3a3)
+![img2](https://github.com/arjunpundir1106/Classification-of-Myocardial-Infarction-using-ECG-images/assets/72138112/a26f8b07-0ae9-4146-aa96-c73a4b1f9aca)
+
 
 
 ii Conversion of Gray Scaled images to Binary images
 
-![image](https://github.com/arjunpundir1106/Classification-of-Myocardial-Infarction-using-ECG-images/assets/72138112/3eeef472-6a27-4185-96df-4dc179be1f89)
+![img3](https://github.com/arjunpundir1106/Classification-of-Myocardial-Infarction-using-ECG-images/assets/72138112/c252be8e-adf5-4b8a-989a-7cd3be75f3a4)
+
 
 
 iii Conversion of genearted leads into contours.
 
-![image](https://github.com/arjunpundir1106/Classification-of-Myocardial-Infarction-using-ECG-images/assets/72138112/03d53af6-ca7a-4508-be94-62ce5fadd039)
+![img4](https://github.com/arjunpundir1106/Classification-of-Myocardial-Infarction-using-ECG-images/assets/72138112/f26199a1-ebee-4705-bb41-6d836570dc48)
+
 
 
 iv Scaling and Normalization of obtained contours.
 
-![image](https://github.com/arjunpundir1106/Classification-of-Myocardial-Infarction-using-ECG-images/assets/72138112/cbec2b0e-f7d7-4f97-9f28-18408ea1657d)
+![img5](https://github.com/arjunpundir1106/Classification-of-Myocardial-Infarction-using-ECG-images/assets/72138112/4f76adae-464a-4499-9ed9-1c1e5758c2bc)
+
 
 
 v. Dimensionality Reduction using PCA
 
-![image](https://github.com/arjunpundir1106/Classification-of-Myocardial-Infarction-using-ECG-images/assets/72138112/513f00f1-dd05-4211-b818-8e35e688b140)
+![img6](https://github.com/arjunpundir1106/Classification-of-Myocardial-Infarction-using-ECG-images/assets/72138112/082633fe-8b52-4eb8-be28-499e8767786d)
+
 
 
 # Results of applying several Machine Learning Models on Preprocessed data
 
-![image](https://github.com/arjunpundir1106/Classification-of-Myocardial-Infarction-using-ECG-images/assets/72138112/461e1091-21c9-4e47-813a-c071901b04ca)
+![img7](https://github.com/arjunpundir1106/Classification-of-Myocardial-Infarction-using-ECG-images/assets/72138112/0251e72e-9ec9-4c5d-a779-cd63c0605471)
+
 
 
 
